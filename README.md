@@ -26,3 +26,4 @@ with warm/cold hints and attempt tracking.
 **Skills:** Python, Loops, Conditions, Lists, Random Module
 
 🔗 [View Project](02-python-mini-projects/number_guessing_game.py)
+ 
