@@ -34,3 +34,11 @@ A simple Python game where the player guesses the position of a hidden ball afte
 **Skills:** Python Functions, Lists, Random Module, While Loops, User Input
 
 🔗 [View Project](02-python-mini-projects/three_cup_shuffle.py)
+
+### 🎮 Tic Tac Toe Game
+
+A two-player Tic Tac Toe game developed in Python as part of my Python learning journey. Features random starting player selection, move validation, win/draw detection, and replay functionality.
+
+**Skills:** Python Functions, Lists, Conditions, While & For Loops, Return Values, Random Module, User Input
+
+🔗 [View Project](02-python-mini-projects/tic_tac_toe.py)
