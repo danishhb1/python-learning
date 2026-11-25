@@ -42,3 +42,13 @@ A two-player Tic Tac Toe game developed in Python as part of my Python learning 
 **Skills:** Python Functions, Lists, Conditions, While & For Loops, Return Values, Random Module, User Input
 
 🔗 [View Project](02-python-mini-projects/tic_tac_toe.py)
+
+### 🃏 War Card Game
+
+An automated two-player card game built using Object-Oriented Programming (OOP) in Python. Developed as a learning project based on the Complete Python Bootcamp.
+
+The game features deck creation, random shuffling, card distribution, automated battles, war scenarios, and winner detection.
+
+**Skills:** Object-Oriented Programming, Classes, Objects, Attributes, Methods, Lists, Tuples, Dictionaries, Nested Loops, Conditional Statements, Random Module
+
+🔗 [View Project](02-python-mini-projects/war_card_game.py)
